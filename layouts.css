@@ -1,0 +1,61 @@
+body{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background: #f2f2f2;
+}
+#container{
+	width: 85%;
+	margin: 0 auto;
+	background: #fff;
+	min-width: 720px;	
+	max-width: 960px;
+}
+#marca{
+
+	height: 200px;
+	background: #255922 url(imagens/cabecalho2.jpg) no-repeat center;
+	text-align: center;
+	line-height: 300px;
+	
+
+}
+#imagemaa{
+	width: 90%;
+	overflow: hidden;
+}
+#conteudo{
+
+	width: 75%;
+	float: right;
+}
+#conteudo-principal{
+	width: 64%;
+	float: left;
+}
+img.img-noticia{
+	width: 90%;
+	padding:2%;
+
+}
+#conteudo-secundario{
+	width: 34%;
+	float: right;
+	background: #d1d1d1;
+}
+#navegacao{
+	width: 25%;
+	float: left;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background: #d1d1d1;
+}
+#navegacao ul{
+	list-style: none;
+}
+#navegacao li a{
+	text-decoration: none;
+}
+#rodape{
+	clear: both;
+	background: #c4c4c4;
+	padding: 5px;
+}

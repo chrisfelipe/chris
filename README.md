@@ -1,2 +1,2 @@
 # chris
-Meu Inicio e Aprendizad de programação!!
+Meu Inicio e Aprendizado de programação!!

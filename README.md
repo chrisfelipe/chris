@@ -1,2 +1,2 @@
-# chris
-Meu Inicio e Aprendizado de programação!!
+# Ola! Eu sou Christyan 
+Apaixonado por tecnologia e estudante de ADS
